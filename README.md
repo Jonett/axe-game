@@ -24,7 +24,3 @@ Get raylib from https://www.raylib.com/
 
 Game running
 ![axe_game_gif](https://user-images.githubusercontent.com/20566934/167238077-3b50f569-0819-4ead-b441-bff4bd836ab5.gif)
-
-Game over
-![game_over](https://user-images.githubusercontent.com/20566934/167237923-78926e14-e57e-438a-a1e1-eb142085fb04.png)
-
