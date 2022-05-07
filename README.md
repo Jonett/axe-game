@@ -21,3 +21,10 @@ Things that could be improved...
 
 For this code to compile on windows without changes, raylib needs to be installed to C:\raylib
 Get raylib from https://www.raylib.com/
+
+Game running
+![game_screen](https://user-images.githubusercontent.com/20566934/167237910-60d58fbe-6bb1-4532-a1f2-74407b30cb05.png)
+
+Game over
+![game_over](https://user-images.githubusercontent.com/20566934/167237923-78926e14-e57e-438a-a1e1-eb142085fb04.png)
+
