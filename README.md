@@ -5,7 +5,8 @@ C++ Fundamentals: Game Programming For Beginners
  * GameDev.tv source https://gitlab.com/GameDevTV/CPPCourse/axe-game
 
 
-Axe Game
+Axe Game:
+
 new for me in this course was...
  *  Variable braced initialization 
     (Good stackoverflow thread: https://stackoverflow.com/questions/18222926/why-is-list-initialization-using-curly-braces-better-than-the-alternatives) 
